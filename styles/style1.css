@@ -1,0 +1,38 @@
+html {
+    font-size: 16px;
+    line-height: 1.7;
+    letter-spacing: 1px;
+    font-family: 'Noto Sans Mono', monospace;
+    background-color: #edf1f3;
+}
+
+h1 {
+    margin: 0;
+    font-size: 60px;
+    text-align: center;
+    color: green;
+    text-shadow: 3px 3px 1px black;
+}
+
+a:hover {
+    color: rgb(62, 243, 62);
+}
+
+body {
+    width: 600px;
+    margin: 10px auto;
+    background-color: #c79857;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+#Change-user {
+    width: 100%;
+    text-align: center;
+}
